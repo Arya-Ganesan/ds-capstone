@@ -1,0 +1,4002 @@
+[
+	{
+		"production_company_key" : 1,
+		"company_name" : "Lucasfilm"
+	},
+	{
+		"production_company_key" : 2,
+		"company_name" : "Walt Disney Pictures"
+	},
+	{
+		"production_company_key" : 3,
+		"company_name" : "Pixar Animation Studios"
+	},
+	{
+		"production_company_key" : 4,
+		"company_name" : "Paramount Pictures"
+	},
+	{
+		"production_company_key" : 5,
+		"company_name" : "Columbia Pictures"
+	},
+	{
+		"production_company_key" : 6,
+		"company_name" : "RKO Radio Pictures"
+	},
+	{
+		"production_company_key" : 7,
+		"company_name" : "DreamWorks"
+	},
+	{
+		"production_company_key" : 8,
+		"company_name" : "Fine Line Features"
+	},
+	{
+		"production_company_key" : 9,
+		"company_name" : "Gaumont"
+	},
+	{
+		"production_company_key" : 11,
+		"company_name" : "WingNut Films"
+	},
+	{
+		"production_company_key" : 12,
+		"company_name" : "New Line Cinema"
+	},
+	{
+		"production_company_key" : 13,
+		"company_name" : "Universal Studios"
+	},
+	{
+		"production_company_key" : 14,
+		"company_name" : "Miramax Films"
+	},
+	{
+		"production_company_key" : 18,
+		"company_name" : "Gracie Films"
+	},
+	{
+		"production_company_key" : 23,
+		"company_name" : "Imagine Entertainment"
+	},
+	{
+		"production_company_key" : 24,
+		"company_name" : "Mikona Productions GmbH & Co. KG"
+	},
+	{
+		"production_company_key" : 27,
+		"company_name" : "DreamWorks SKG"
+	},
+	{
+		"production_company_key" : 28,
+		"company_name" : "Newmarket Films"
+	},
+	{
+		"production_company_key" : 30,
+		"company_name" : "Eddie Murphy Productions"
+	},
+	{
+		"production_company_key" : 32,
+		"company_name" : "Buena Vista"
+	},
+	{
+		"production_company_key" : 33,
+		"company_name" : "Universal Pictures"
+	},
+	{
+		"production_company_key" : 34,
+		"company_name" : "Sony Pictures"
+	},
+	{
+		"production_company_key" : 35,
+		"company_name" : "Lions Gate Films"
+	},
+	{
+		"production_company_key" : 37,
+		"company_name" : "Gramercy Pictures"
+	},
+	{
+		"production_company_key" : 41,
+		"company_name" : "Orion Pictures"
+	},
+	{
+		"production_company_key" : 42,
+		"company_name" : "Universal Pictures Corporation"
+	},
+	{
+		"production_company_key" : 43,
+		"company_name" : "Fox Searchlight Pictures"
+	},
+	{
+		"production_company_key" : 44,
+		"company_name" : "Cruise/Wagner Productions"
+	},
+	{
+		"production_company_key" : 46,
+		"company_name" : "WDR"
+	},
+	{
+		"production_company_key" : 47,
+		"company_name" : "Constantin Film"
+	},
+	{
+		"production_company_key" : 49,
+		"company_name" : "El Deseo"
+	},
+	{
+		"production_company_key" : 53,
+		"company_name" : "Les Films du Carrosse"
+	},
+	{
+		"production_company_key" : 54,
+		"company_name" : "The Independent Film Channel Productions"
+	},
+	{
+		"production_company_key" : 56,
+		"company_name" : "Amblin Entertainment"
+	},
+	{
+		"production_company_key" : 58,
+		"company_name" : "Sony Pictures Classics"
+	},
+	{
+		"production_company_key" : 59,
+		"company_name" : "A Band Apart"
+	},
+	{
+		"production_company_key" : 60,
+		"company_name" : "United Artists"
+	},
+	{
+		"production_company_key" : 62,
+		"company_name" : "The Selznik Studio"
+	},
+	{
+		"production_company_key" : 64,
+		"company_name" : "Les Productions Artistes Associu00e9s"
+	},
+	{
+		"production_company_key" : 68,
+		"company_name" : "Big Primate Pictures"
+	},
+	{
+		"production_company_key" : 69,
+		"company_name" : "MFPV Film"
+	},
+	{
+		"production_company_key" : 70,
+		"company_name" : "American Zoetrope"
+	},
+	{
+		"production_company_key" : 76,
+		"company_name" : "Zentropa Entertainments"
+	},
+	{
+		"production_company_key" : 77,
+		"company_name" : "Milestone Productions"
+	},
+	{
+		"production_company_key" : 79,
+		"company_name" : "Village Roadshow Pictures"
+	},
+	{
+		"production_company_key" : 80,
+		"company_name" : "The Zanuck Company"
+	},
+	{
+		"production_company_key" : 81,
+		"company_name" : "Plan B Entertainment"
+	},
+	{
+		"production_company_key" : 82,
+		"company_name" : "Renn Productions"
+	},
+	{
+		"production_company_key" : 83,
+		"company_name" : "France 2 Cinu00e9ma"
+	},
+	{
+		"production_company_key" : 84,
+		"company_name" : "Tree Line Films"
+	},
+	{
+		"production_company_key" : 85,
+		"company_name" : "Konrad Pictures"
+	},
+	{
+		"production_company_key" : 86,
+		"company_name" : "Catfish Productions"
+	},
+	{
+		"production_company_key" : 88,
+		"company_name" : "Hawk Films"
+	},
+	{
+		"production_company_key" : 97,
+		"company_name" : "Castle Rock Entertainment"
+	},
+	{
+		"production_company_key" : 98,
+		"company_name" : "Detour Film Production"
+	},
+	{
+		"production_company_key" : 100,
+		"company_name" : "Avon Production"
+	},
+	{
+		"production_company_key" : 104,
+		"company_name" : "Canal Plus"
+	},
+	{
+		"production_company_key" : 118,
+		"company_name" : "Det Danske Filminstitut"
+	},
+	{
+		"production_company_key" : 119,
+		"company_name" : "Danmarks Radio (DR)"
+	},
+	{
+		"production_company_key" : 120,
+		"company_name" : "Scorsese Productions"
+	},
+	{
+		"production_company_key" : 125,
+		"company_name" : "Danish Film Institute"
+	},
+	{
+		"production_company_key" : 126,
+		"company_name" : "Lakeshore Entertainment"
+	},
+	{
+		"production_company_key" : 127,
+		"company_name" : "Screen Gems, Inc."
+	},
+	{
+		"production_company_key" : 129,
+		"company_name" : "Section Eight"
+	},
+	{
+		"production_company_key" : 130,
+		"company_name" : "Jerry Bruckheimer Films"
+	},
+	{
+		"production_company_key" : 134,
+		"company_name" : "Rogue Pictures"
+	},
+	{
+		"production_company_key" : 135,
+		"company_name" : "UIP"
+	},
+	{
+		"production_company_key" : 136,
+		"company_name" : "City Light Films"
+	},
+	{
+		"production_company_key" : 145,
+		"company_name" : "Gaumont Columbia Tristar Films"
+	},
+	{
+		"production_company_key" : 146,
+		"company_name" : "Handmade Films Ltd."
+	},
+	{
+		"production_company_key" : 147,
+		"company_name" : "Fidu00e9litu00e9 Productions"
+	},
+	{
+		"production_company_key" : 148,
+		"company_name" : "Gimages"
+	},
+	{
+		"production_company_key" : 149,
+		"company_name" : "FOZ"
+	},
+	{
+		"production_company_key" : 150,
+		"company_name" : "Headforce Ltd."
+	},
+	{
+		"production_company_key" : 152,
+		"company_name" : "Icon Productions"
+	},
+	{
+		"production_company_key" : 156,
+		"company_name" : "Nordic Film"
+	},
+	{
+		"production_company_key" : 157,
+		"company_name" : "SVT Drama"
+	},
+	{
+		"production_company_key" : 158,
+		"company_name" : "Spyglass Entertainment"
+	},
+	{
+		"production_company_key" : 159,
+		"company_name" : "Shady Acres Entertainment"
+	},
+	{
+		"production_company_key" : 160,
+		"company_name" : "Pit Bull Productions"
+	},
+	{
+		"production_company_key" : 161,
+		"company_name" : "Claussen + Wu00f6bke Filmproduktion GmbH"
+	},
+	{
+		"production_company_key" : 163,
+		"company_name" : "Revolution Films"
+	},
+	{
+		"production_company_key" : 164,
+		"company_name" : "Rhombus Media"
+	},
+	{
+		"production_company_key" : 171,
+		"company_name" : "Malpaso Productions"
+	},
+	{
+		"production_company_key" : 172,
+		"company_name" : "NPV Entertainment"
+	},
+	{
+		"production_company_key" : 174,
+		"company_name" : "Warner Bros. Pictures"
+	},
+	{
+		"production_company_key" : 175,
+		"company_name" : "Caravan Pictures"
+	},
+	{
+		"production_company_key" : 178,
+		"company_name" : "Ghoulardi Film Company"
+	},
+	{
+		"production_company_key" : 179,
+		"company_name" : "The Magnolia Project"
+	},
+	{
+		"production_company_key" : 181,
+		"company_name" : "Channel Four Films"
+	},
+	{
+		"production_company_key" : 182,
+		"company_name" : "JVC Entertainment"
+	},
+	{
+		"production_company_key" : 183,
+		"company_name" : "Le Studio Canal+"
+	},
+	{
+		"production_company_key" : 185,
+		"company_name" : "Pandora Cinema"
+	},
+	{
+		"production_company_key" : 186,
+		"company_name" : "Pyramide Productions"
+	},
+	{
+		"production_company_key" : 191,
+		"company_name" : "Senator Film Produktion"
+	},
+	{
+		"production_company_key" : 194,
+		"company_name" : "Hobby Films"
+	},
+	{
+		"production_company_key" : 195,
+		"company_name" : "Pole Star"
+	},
+	{
+		"production_company_key" : 200,
+		"company_name" : "Corazu00f3n International"
+	},
+	{
+		"production_company_key" : 201,
+		"company_name" : "Arte"
+	},
+	{
+		"production_company_key" : 204,
+		"company_name" : "Wu00fcste Filmproduktion"
+	},
+	{
+		"production_company_key" : 205,
+		"company_name" : "Mirage Entertainment"
+	},
+	{
+		"production_company_key" : 206,
+		"company_name" : "Star Partners II Ltd."
+	},
+	{
+		"production_company_key" : 208,
+		"company_name" : "Bac Films"
+	},
+	{
+		"production_company_key" : 209,
+		"company_name" : "Radiant Film GmbH"
+	},
+	{
+		"production_company_key" : 210,
+		"company_name" : "Su00fcddeutscher Rundfunk"
+	},
+	{
+		"production_company_key" : 212,
+		"company_name" : "Infinity Features Entertainment"
+	},
+	{
+		"production_company_key" : 213,
+		"company_name" : "Cooper's Town Productions"
+	},
+	{
+		"production_company_key" : 214,
+		"company_name" : "Eagle Vision Inc."
+	},
+	{
+		"production_company_key" : 215,
+		"company_name" : "Double Feature Films"
+	},
+	{
+		"production_company_key" : 216,
+		"company_name" : "Jersey Films"
+	},
+	{
+		"production_company_key" : 218,
+		"company_name" : "Rafran Cinematografica"
+	},
+	{
+		"production_company_key" : 219,
+		"company_name" : "The Mirisch Corporation"
+	},
+	{
+		"production_company_key" : 223,
+		"company_name" : "Les Films du Losange"
+	},
+	{
+		"production_company_key" : 224,
+		"company_name" : "Wega Film"
+	},
+	{
+		"production_company_key" : 225,
+		"company_name" : "BIM Distribuzione"
+	},
+	{
+		"production_company_key" : 234,
+		"company_name" : "CoBo Fund"
+	},
+	{
+		"production_company_key" : 235,
+		"company_name" : "Nordisk Film"
+	},
+	{
+		"production_company_key" : 236,
+		"company_name" : "October Films"
+	},
+	{
+		"production_company_key" : 240,
+		"company_name" : "Bazmark Films"
+	},
+	{
+		"production_company_key" : 242,
+		"company_name" : "GF Studios AB"
+	},
+	{
+		"production_company_key" : 245,
+		"company_name" : "Cowboy Films"
+	},
+	{
+		"production_company_key" : 246,
+		"company_name" : "Film Council"
+	},
+	{
+		"production_company_key" : 247,
+		"company_name" : "Granada Film Productions"
+	},
+	{
+		"production_company_key" : 248,
+		"company_name" : "Impact Pictures"
+	},
+	{
+		"production_company_key" : 250,
+		"company_name" : "Canal+Polska"
+	},
+	{
+		"production_company_key" : 251,
+		"company_name" : "Avenue Pictures Productions"
+	},
+	{
+		"production_company_key" : 254,
+		"company_name" : "Pandora Filmproduktion"
+	},
+	{
+		"production_company_key" : 255,
+		"company_name" : "Paradis Films"
+	},
+	{
+		"production_company_key" : 258,
+		"company_name" : "Scott Rudin Productions"
+	},
+	{
+		"production_company_key" : 260,
+		"company_name" : "Heritage Films"
+	},
+	{
+		"production_company_key" : 261,
+		"company_name" : "Samuel Goldwyn"
+	},
+	{
+		"production_company_key" : 264,
+		"company_name" : "Studio Babelsberg"
+	},
+	{
+		"production_company_key" : 265,
+		"company_name" : "Runteam Ltd."
+	},
+	{
+		"production_company_key" : 266,
+		"company_name" : "Agencja Produkcji Filmowej"
+	},
+	{
+		"production_company_key" : 267,
+		"company_name" : "Beverly Detroit"
+	},
+	{
+		"production_company_key" : 268,
+		"company_name" : "FilmFernsehFonds Bayern"
+	},
+	{
+		"production_company_key" : 269,
+		"company_name" : "Filmboard Berlin-Brandenburg (FBB)"
+	},
+	{
+		"production_company_key" : 270,
+		"company_name" : "Filmfu00f6rderanstalt (FFA)"
+	},
+	{
+		"production_company_key" : 271,
+		"company_name" : "Mainstream S.A."
+	},
+	{
+		"production_company_key" : 278,
+		"company_name" : "Propaganda Films"
+	},
+	{
+		"production_company_key" : 279,
+		"company_name" : "Single Cell Pictures"
+	},
+	{
+		"production_company_key" : 280,
+		"company_name" : "Cinu00e9maginaire Inc."
+	},
+	{
+		"production_company_key" : 282,
+		"company_name" : "Bookshop Productions"
+	},
+	{
+		"production_company_key" : 283,
+		"company_name" : "Notting Hill Pictures"
+	},
+	{
+		"production_company_key" : 284,
+		"company_name" : "DNA Films"
+	},
+	{
+		"production_company_key" : 285,
+		"company_name" : "Live Entertainment"
+	},
+	{
+		"production_company_key" : 286,
+		"company_name" : "Fantasy Films"
+	},
+	{
+		"production_company_key" : 288,
+		"company_name" : "BBC Films"
+	},
+	{
+		"production_company_key" : 289,
+		"company_name" : "Ingenious Film Partners"
+	},
+	{
+		"production_company_key" : 290,
+		"company_name" : "Ingenious Media"
+	},
+	{
+		"production_company_key" : 291,
+		"company_name" : "Perdido Prod."
+	},
+	{
+		"production_company_key" : 294,
+		"company_name" : "New Zealand Film Commission"
+	},
+	{
+		"production_company_key" : 297,
+		"company_name" : "Aardman Animations"
+	},
+	{
+		"production_company_key" : 299,
+		"company_name" : "Instituto Mexicano de Cinematografu00eda"
+	},
+	{
+		"production_company_key" : 300,
+		"company_name" : "Alameda Films"
+	},
+	{
+		"production_company_key" : 301,
+		"company_name" : "Cinecolor-Mu00e9xico"
+	},
+	{
+		"production_company_key" : 303,
+		"company_name" : "Cinecolor-Argentina"
+	},
+	{
+		"production_company_key" : 304,
+		"company_name" : "Artcam y Fonds Sud Cinu00e9ma"
+	},
+	{
+		"production_company_key" : 306,
+		"company_name" : "Twentieth Century Fox Film Corporation"
+	},
+	{
+		"production_company_key" : 307,
+		"company_name" : "IFC Films"
+	},
+	{
+		"production_company_key" : 308,
+		"company_name" : "The Weinstein Company"
+	},
+	{
+		"production_company_key" : 310,
+		"company_name" : "Centre National de la Cinu00e9matographie"
+	},
+	{
+		"production_company_key" : 311,
+		"company_name" : "Procirep"
+	},
+	{
+		"production_company_key" : 312,
+		"company_name" : "Soficinu00e9ma"
+	},
+	{
+		"production_company_key" : 313,
+		"company_name" : "TS Productions"
+	},
+	{
+		"production_company_key" : 315,
+		"company_name" : "Filmstiftung Nordrhein-Westfalen"
+	},
+	{
+		"production_company_key" : 316,
+		"company_name" : "Wildwood Enterprises"
+	},
+	{
+		"production_company_key" : 321,
+		"company_name" : "Memfis Film"
+	},
+	{
+		"production_company_key" : 326,
+		"company_name" : "Laura Ziskin Productions"
+	},
+	{
+		"production_company_key" : 328,
+		"company_name" : "TLA Releasing"
+	},
+	{
+		"production_company_key" : 333,
+		"company_name" : "Original Film"
+	},
+	{
+		"production_company_key" : 335,
+		"company_name" : "Tig Productions"
+	},
+	{
+		"production_company_key" : 336,
+		"company_name" : "Wiedemann & Berg Filmproduktion"
+	},
+	{
+		"production_company_key" : 337,
+		"company_name" : "Creado Film"
+	},
+	{
+		"production_company_key" : 341,
+		"company_name" : "Silent Hill DCP Inc."
+	},
+	{
+		"production_company_key" : 342,
+		"company_name" : "Davis-Films"
+	},
+	{
+		"production_company_key" : 343,
+		"company_name" : "Konami Corporation Ltd."
+	},
+	{
+		"production_company_key" : 345,
+		"company_name" : "O2 Filmes"
+	},
+	{
+		"production_company_key" : 346,
+		"company_name" : "VideoFilmes"
+	},
+	{
+		"production_company_key" : 347,
+		"company_name" : "Centropolis Entertainment"
+	},
+	{
+		"production_company_key" : 348,
+		"company_name" : "Bedford Falls Productions"
+	},
+	{
+		"production_company_key" : 349,
+		"company_name" : "Cruise-Wagner Productions"
+	},
+	{
+		"production_company_key" : 353,
+		"company_name" : "Kino Vision"
+	},
+	{
+		"production_company_key" : 354,
+		"company_name" : "Orly Films"
+	},
+	{
+		"production_company_key" : 355,
+		"company_name" : "R.P. Productions"
+	},
+	{
+		"production_company_key" : 356,
+		"company_name" : "TF1 Films Productions"
+	},
+	{
+		"production_company_key" : 357,
+		"company_name" : "Vu00eda Digital"
+	},
+	{
+		"production_company_key" : 358,
+		"company_name" : "Noel Gay Motion Picture Company"
+	},
+	{
+		"production_company_key" : 359,
+		"company_name" : "Figment Films"
+	},
+	{
+		"production_company_key" : 360,
+		"company_name" : "Geffen Pictures"
+	},
+	{
+		"production_company_key" : 361,
+		"company_name" : "Blue Parrot Productions"
+	},
+	{
+		"production_company_key" : 364,
+		"company_name" : "The Rank Organisation"
+	},
+	{
+		"production_company_key" : 365,
+		"company_name" : "Nelson Entertainment"
+	},
+	{
+		"production_company_key" : 367,
+		"company_name" : "Kemp Company"
+	},
+	{
+		"production_company_key" : 368,
+		"company_name" : "Splendid Pictures"
+	},
+	{
+		"production_company_key" : 369,
+		"company_name" : "Bungalow 78 Productions"
+	},
+	{
+		"production_company_key" : 371,
+		"company_name" : "Cecchi Gori Group Tiger Cinematografica"
+	},
+	{
+		"production_company_key" : 372,
+		"company_name" : "Groucho II Film Partnership"
+	},
+	{
+		"production_company_key" : 373,
+		"company_name" : "Asymmetrical Productions"
+	},
+	{
+		"production_company_key" : 375,
+		"company_name" : "Heineken Branded Entertainment"
+	},
+	{
+		"production_company_key" : 376,
+		"company_name" : "Industry Entertainment"
+	},
+	{
+		"production_company_key" : 379,
+		"company_name" : "Truth and Soul Pictures Inc"
+	},
+	{
+		"production_company_key" : 380,
+		"company_name" : "Thousand Words"
+	},
+	{
+		"production_company_key" : 381,
+		"company_name" : "Campanile Productions"
+	},
+	{
+		"production_company_key" : 382,
+		"company_name" : "Newman-Foreman Productions"
+	},
+	{
+		"production_company_key" : 384,
+		"company_name" : "MacDonald/Parkes Productions"
+	},
+	{
+		"production_company_key" : 385,
+		"company_name" : "Stanley Kubrick Productions"
+	},
+	{
+		"production_company_key" : 388,
+		"company_name" : "Horizon Pictures"
+	},
+	{
+		"production_company_key" : 393,
+		"company_name" : "MACT Productions"
+	},
+	{
+		"production_company_key" : 394,
+		"company_name" : "Videofilms"
+	},
+	{
+		"production_company_key" : 395,
+		"company_name" : "Riofilm"
+	},
+	{
+		"production_company_key" : 396,
+		"company_name" : "SLM Production Group"
+	},
+	{
+		"production_company_key" : 398,
+		"company_name" : "Egg Films"
+	},
+	{
+		"production_company_key" : 399,
+		"company_name" : "Show East"
+	},
+	{
+		"production_company_key" : 406,
+		"company_name" : "Havoc"
+	},
+	{
+		"production_company_key" : 407,
+		"company_name" : "Dreamland Productions"
+	},
+	{
+		"production_company_key" : 412,
+		"company_name" : "Wendy Finerman Productions"
+	},
+	{
+		"production_company_key" : 413,
+		"company_name" : "Proscenium Films"
+	},
+	{
+		"production_company_key" : 414,
+		"company_name" : "Fountainbridge Films"
+	},
+	{
+		"production_company_key" : 415,
+		"company_name" : "Laurence Mark Productions"
+	},
+	{
+		"production_company_key" : 416,
+		"company_name" : "Python (Monty) Pictures Limited"
+	},
+	{
+		"production_company_key" : 418,
+		"company_name" : "New South Wales Film & Television Office"
+	},
+	{
+		"production_company_key" : 420,
+		"company_name" : "Marvel Studios"
+	},
+	{
+		"production_company_key" : 421,
+		"company_name" : "Amen Ra Films"
+	},
+	{
+		"production_company_key" : 423,
+		"company_name" : "Phantom Four"
+	},
+	{
+		"production_company_key" : 427,
+		"company_name" : "PSO International"
+	},
+	{
+		"production_company_key" : 429,
+		"company_name" : "DC Comics"
+	},
+	{
+		"production_company_key" : 430,
+		"company_name" : "Lonely Film Productions GmbH & Co. KG."
+	},
+	{
+		"production_company_key" : 431,
+		"company_name" : "Donners' Company"
+	},
+	{
+		"production_company_key" : 433,
+		"company_name" : "Weed Road Pictures"
+	},
+	{
+		"production_company_key" : 435,
+		"company_name" : "Di Bonaventura Pictures"
+	},
+	{
+		"production_company_key" : 436,
+		"company_name" : "1492 Pictures"
+	},
+	{
+		"production_company_key" : 437,
+		"company_name" : "Heyday films"
+	},
+	{
+		"production_company_key" : 441,
+		"company_name" : "Columbia Pictures Corporation"
+	},
+	{
+		"production_company_key" : 443,
+		"company_name" : "Big Talk Productions"
+	},
+	{
+		"production_company_key" : 444,
+		"company_name" : "Dune Entertainment"
+	},
+	{
+		"production_company_key" : 445,
+		"company_name" : "Major Studio Partners"
+	},
+	{
+		"production_company_key" : 446,
+		"company_name" : "Thinkfilm"
+	},
+	{
+		"production_company_key" : 449,
+		"company_name" : "Virtual Studios"
+	},
+	{
+		"production_company_key" : 450,
+		"company_name" : "Anarchos Productions"
+	},
+	{
+		"production_company_key" : 455,
+		"company_name" : "Permut Presentations"
+	},
+	{
+		"production_company_key" : 456,
+		"company_name" : "WCG Entertainment Productions"
+	},
+	{
+		"production_company_key" : 457,
+		"company_name" : "Constellation Films"
+	},
+	{
+		"production_company_key" : 458,
+		"company_name" : "Douglas/Reuther Productions"
+	},
+	{
+		"production_company_key" : 462,
+		"company_name" : "Patalex IV Productions Limited"
+	},
+	{
+		"production_company_key" : 463,
+		"company_name" : "Michael White Productions"
+	},
+	{
+		"production_company_key" : 464,
+		"company_name" : "National Film Trustee Company"
+	},
+	{
+		"production_company_key" : 465,
+		"company_name" : "Twickenham Film Studios"
+	},
+	{
+		"production_company_key" : 467,
+		"company_name" : "Renaissance Pictures"
+	},
+	{
+		"production_company_key" : 469,
+		"company_name" : "Hemdale Film Corporation"
+	},
+	{
+		"production_company_key" : 470,
+		"company_name" : "Recorded Pictures Company"
+	},
+	{
+		"production_company_key" : 472,
+		"company_name" : "Soprofilms"
+	},
+	{
+		"production_company_key" : 473,
+		"company_name" : "TAO Film"
+	},
+	{
+		"production_company_key" : 474,
+		"company_name" : "Yanco"
+	},
+	{
+		"production_company_key" : 475,
+		"company_name" : "JD Productions"
+	},
+	{
+		"production_company_key" : 476,
+		"company_name" : "Underworld Entertainment"
+	},
+	{
+		"production_company_key" : 477,
+		"company_name" : "Hughes Entertainment"
+	},
+	{
+		"production_company_key" : 480,
+		"company_name" : "Tobis"
+	},
+	{
+		"production_company_key" : 485,
+		"company_name" : "Vinyl Films"
+	},
+	{
+		"production_company_key" : 486,
+		"company_name" : "Portobello Pictures"
+	},
+	{
+		"production_company_key" : 491,
+		"company_name" : "Summit Entertainment"
+	},
+	{
+		"production_company_key" : 494,
+		"company_name" : "AVCO Embassy Pictures"
+	},
+	{
+		"production_company_key" : 495,
+		"company_name" : "EDI"
+	},
+	{
+		"production_company_key" : 496,
+		"company_name" : "David Foster Productions"
+	},
+	{
+		"production_company_key" : 497,
+		"company_name" : "Revolution Studios"
+	},
+	{
+		"production_company_key" : 498,
+		"company_name" : "Debra Hill Productions"
+	},
+	{
+		"production_company_key" : 499,
+		"company_name" : "De Laurentiis Entertainment Group"
+	},
+	{
+		"production_company_key" : 500,
+		"company_name" : "Goldcrest Films International"
+	},
+	{
+		"production_company_key" : 501,
+		"company_name" : "Indo-British"
+	},
+	{
+		"production_company_key" : 502,
+		"company_name" : "International Film Investors"
+	},
+	{
+		"production_company_key" : 503,
+		"company_name" : "National Film Development Corporation of India"
+	},
+	{
+		"production_company_key" : 504,
+		"company_name" : "Carolina Bank"
+	},
+	{
+		"production_company_key" : 505,
+		"company_name" : "Cruel Productions"
+	},
+	{
+		"production_company_key" : 506,
+		"company_name" : "Newmarket Capital Group"
+	},
+	{
+		"production_company_key" : 507,
+		"company_name" : "Atlas Entertainment"
+	},
+	{
+		"production_company_key" : 508,
+		"company_name" : "Regency Enterprises"
+	},
+	{
+		"production_company_key" : 514,
+		"company_name" : "Silver Screen Partners"
+	},
+	{
+		"production_company_key" : 516,
+		"company_name" : "Seven Arts Productions"
+	},
+	{
+		"production_company_key" : 517,
+		"company_name" : "Allied Artists"
+	},
+	{
+		"production_company_key" : 518,
+		"company_name" : "Transworld Pictures"
+	},
+	{
+		"production_company_key" : 520,
+		"company_name" : "Pacific Data Images (PDI)"
+	},
+	{
+		"production_company_key" : 521,
+		"company_name" : "DreamWorks Animation"
+	},
+	{
+		"production_company_key" : 523,
+		"company_name" : "Camelot Productions"
+	},
+	{
+		"production_company_key" : 524,
+		"company_name" : "Canal Plus Group"
+	},
+	{
+		"production_company_key" : 525,
+		"company_name" : "Ixtlan Productions"
+	},
+	{
+		"production_company_key" : 526,
+		"company_name" : "Roxlom Films"
+	},
+	{
+		"production_company_key" : 528,
+		"company_name" : "Bandai Visual Company"
+	},
+	{
+		"production_company_key" : 536,
+		"company_name" : "The Coppola Company"
+	},
+	{
+		"production_company_key" : 538,
+		"company_name" : "EMI Films Ltd."
+	},
+	{
+		"production_company_key" : 539,
+		"company_name" : "Block 2 Pictures"
+	},
+	{
+		"production_company_key" : 540,
+		"company_name" : "Jet Tone Production"
+	},
+	{
+		"production_company_key" : 541,
+		"company_name" : "Famous Players Ltd"
+	},
+	{
+		"production_company_key" : 542,
+		"company_name" : "Guardian Trust Company"
+	},
+	{
+		"production_company_key" : 543,
+		"company_name" : "Filmplan International II"
+	},
+	{
+		"production_company_key" : 545,
+		"company_name" : "Ten Thirteen Productions"
+	},
+	{
+		"production_company_key" : 547,
+		"company_name" : "Open City Films"
+	},
+	{
+		"production_company_key" : 549,
+		"company_name" : "Swanford Films"
+	},
+	{
+		"production_company_key" : 551,
+		"company_name" : "Mandalay Pictures"
+	},
+	{
+		"production_company_key" : 552,
+		"company_name" : "Dark Horse Entertainment"
+	},
+	{
+		"production_company_key" : 553,
+		"company_name" : "Barclays Mercantile Industrial Finance"
+	},
+	{
+		"production_company_key" : 554,
+		"company_name" : "Silver Screen Partners III"
+	},
+	{
+		"production_company_key" : 559,
+		"company_name" : "TriStar Pictures"
+	},
+	{
+		"production_company_key" : 560,
+		"company_name" : "Film Colony"
+	},
+	{
+		"production_company_key" : 562,
+		"company_name" : "Appian Way"
+	},
+	{
+		"production_company_key" : 563,
+		"company_name" : "Movieworld Productions"
+	},
+	{
+		"production_company_key" : 564,
+		"company_name" : "Industrial Development Corporation of South Africa"
+	},
+	{
+		"production_company_key" : 565,
+		"company_name" : "UK Film & TV Production Company"
+	},
+	{
+		"production_company_key" : 566,
+		"company_name" : "National Film & Video Foundation of South Africa"
+	},
+	{
+		"production_company_key" : 567,
+		"company_name" : "Office Kitano"
+	},
+	{
+		"production_company_key" : 571,
+		"company_name" : "Highland Films"
+	},
+	{
+		"production_company_key" : 572,
+		"company_name" : "New Amsterdam Entertainment"
+	},
+	{
+		"production_company_key" : 574,
+		"company_name" : "Lightstorm Entertainment"
+	},
+	{
+		"production_company_key" : 579,
+		"company_name" : "Alliance Communications"
+	},
+	{
+		"production_company_key" : 582,
+		"company_name" : "Hachette Premiu00e8re"
+	},
+	{
+		"production_company_key" : 591,
+		"company_name" : "France 3 Cinu00e9ma"
+	},
+	{
+		"production_company_key" : 592,
+		"company_name" : "Claudie Ossard Productions"
+	},
+	{
+		"production_company_key" : 594,
+		"company_name" : "Capella International"
+	},
+	{
+		"production_company_key" : 595,
+		"company_name" : "Eric's Boy"
+	},
+	{
+		"production_company_key" : 596,
+		"company_name" : "KC Medien AG"
+	},
+	{
+		"production_company_key" : 597,
+		"company_name" : "Irish Dreamtime"
+	},
+	{
+		"production_company_key" : 598,
+		"company_name" : "Team Todd"
+	},
+	{
+		"production_company_key" : 614,
+		"company_name" : "Vanguard Films"
+	},
+	{
+		"production_company_key" : 616,
+		"company_name" : "Eskwad"
+	},
+	{
+		"production_company_key" : 617,
+		"company_name" : "Brooksfilms Ltd."
+	},
+	{
+		"production_company_key" : 620,
+		"company_name" : "Centropolis Film Productions"
+	},
+	{
+		"production_company_key" : 622,
+		"company_name" : "Toho Film (Eiga) Co. Ltd."
+	},
+	{
+		"production_company_key" : 631,
+		"company_name" : "Parkway Pictures (I)"
+	},
+	{
+		"production_company_key" : 633,
+		"company_name" : "Metro Productions"
+	},
+	{
+		"production_company_key" : 634,
+		"company_name" : "ABC Pictures"
+	},
+	{
+		"production_company_key" : 635,
+		"company_name" : "Les Films Alain Sarde"
+	},
+	{
+		"production_company_key" : 636,
+		"company_name" : "Babbo Inc."
+	},
+	{
+		"production_company_key" : 637,
+		"company_name" : "The Picture Factory"
+	},
+	{
+		"production_company_key" : 638,
+		"company_name" : "Laurel Group"
+	},
+	{
+		"production_company_key" : 644,
+		"company_name" : "Alcor Films"
+	},
+	{
+		"production_company_key" : 646,
+		"company_name" : "D'Antoni Productions"
+	},
+	{
+		"production_company_key" : 649,
+		"company_name" : "Sony"
+	},
+	{
+		"production_company_key" : 654,
+		"company_name" : "South Pacific Pictures"
+	},
+	{
+		"production_company_key" : 655,
+		"company_name" : "Strike Entertainment"
+	},
+	{
+		"production_company_key" : 656,
+		"company_name" : "Metropolitan Filmexport"
+	},
+	{
+		"production_company_key" : 657,
+		"company_name" : "Toho-Towa"
+	},
+	{
+		"production_company_key" : 658,
+		"company_name" : "MI 3 Film"
+	},
+	{
+		"production_company_key" : 662,
+		"company_name" : "Turman-Foster Company"
+	},
+	{
+		"production_company_key" : 664,
+		"company_name" : "City Film"
+	},
+	{
+		"production_company_key" : 668,
+		"company_name" : "T.H.E. Films"
+	},
+	{
+		"production_company_key" : 675,
+		"company_name" : "Forward Pass"
+	},
+	{
+		"production_company_key" : 676,
+		"company_name" : "Monarchy Enterprises B.V."
+	},
+	{
+		"production_company_key" : 679,
+		"company_name" : "Timnick Films"
+	},
+	{
+		"production_company_key" : 682,
+		"company_name" : "Peninsula Films"
+	},
+	{
+		"production_company_key" : 685,
+		"company_name" : "Cineclick Asia"
+	},
+	{
+		"production_company_key" : 686,
+		"company_name" : "Tiger Aspect Productions"
+	},
+	{
+		"production_company_key" : 689,
+		"company_name" : "Ventanarosa Productions"
+	},
+	{
+		"production_company_key" : 690,
+		"company_name" : "Handprint Entertainment"
+	},
+	{
+		"production_company_key" : 691,
+		"company_name" : "Cappa Productions"
+	},
+	{
+		"production_company_key" : 692,
+		"company_name" : "Sogecine"
+	},
+	{
+		"production_company_key" : 694,
+		"company_name" : "StudioCanal"
+	},
+	{
+		"production_company_key" : 695,
+		"company_name" : "Lee Daniels Entertainment"
+	},
+	{
+		"production_company_key" : 696,
+		"company_name" : "Rogue Marble"
+	},
+	{
+		"production_company_key" : 698,
+		"company_name" : "Scottish Screen"
+	},
+	{
+		"production_company_key" : 702,
+		"company_name" : "3L Filmproduktion GmbH"
+	},
+	{
+		"production_company_key" : 703,
+		"company_name" : "Razor Film Produktion GmbH"
+	},
+	{
+		"production_company_key" : 704,
+		"company_name" : "Initial Entertainment Group"
+	},
+	{
+		"production_company_key" : 705,
+		"company_name" : "Spring Creek Productions"
+	},
+	{
+		"production_company_key" : 707,
+		"company_name" : "Matador Pictures"
+	},
+	{
+		"production_company_key" : 711,
+		"company_name" : "Fox 2000 Pictures"
+	},
+	{
+		"production_company_key" : 713,
+		"company_name" : "Nu Image Entertainment"
+	},
+	{
+		"production_company_key" : 716,
+		"company_name" : "Standard Film Company"
+	},
+	{
+		"production_company_key" : 718,
+		"company_name" : "Arts Council of England"
+	},
+	{
+		"production_company_key" : 720,
+		"company_name" : "Goldwyn Films"
+	},
+	{
+		"production_company_key" : 722,
+		"company_name" : "Temple Hill Productions"
+	},
+	{
+		"production_company_key" : 724,
+		"company_name" : "Beijing New Picture Film Co. Ltd."
+	},
+	{
+		"production_company_key" : 726,
+		"company_name" : "Haut et Court"
+	},
+	{
+		"production_company_key" : 728,
+		"company_name" : "Kalkaska Productions"
+	},
+	{
+		"production_company_key" : 729,
+		"company_name" : "Why Not Productions"
+	},
+	{
+		"production_company_key" : 732,
+		"company_name" : "Mate Producciones S.A."
+	},
+	{
+		"production_company_key" : 734,
+		"company_name" : "Producers Circle"
+	},
+	{
+		"production_company_key" : 735,
+		"company_name" : "Waverly Films"
+	},
+	{
+		"production_company_key" : 737,
+		"company_name" : "Sidney Kimmel Entertainment"
+	},
+	{
+		"production_company_key" : 738,
+		"company_name" : "Myriad Pictures"
+	},
+	{
+		"production_company_key" : 739,
+		"company_name" : "Anomaly Entertainment"
+	},
+	{
+		"production_company_key" : 740,
+		"company_name" : "MTM Cineteve"
+	},
+	{
+		"production_company_key" : 741,
+		"company_name" : "Emotion Pictures"
+	},
+	{
+		"production_company_key" : 744,
+		"company_name" : "Diaphana Films"
+	},
+	{
+		"production_company_key" : 746,
+		"company_name" : "MTV Films"
+	},
+	{
+		"production_company_key" : 748,
+		"company_name" : "Mosaic Media Group"
+	},
+	{
+		"production_company_key" : 753,
+		"company_name" : "Nouvelles u00c9ditions de Films (NEF)"
+	},
+	{
+		"production_company_key" : 758,
+		"company_name" : "TV2 Danmark"
+	},
+	{
+		"production_company_key" : 762,
+		"company_name" : "Mutual Film Company"
+	},
+	{
+		"production_company_key" : 763,
+		"company_name" : "Intermedia Films"
+	},
+	{
+		"production_company_key" : 766,
+		"company_name" : "Blue Tulip Productions"
+	},
+	{
+		"production_company_key" : 768,
+		"company_name" : "Ghost House Pictures"
+	},
+	{
+		"production_company_key" : 769,
+		"company_name" : "Destination Films"
+	},
+	{
+		"production_company_key" : 770,
+		"company_name" : "Kingsgate Films"
+	},
+	{
+		"production_company_key" : 771,
+		"company_name" : "Mandate Pictures"
+	},
+	{
+		"production_company_key" : 773,
+		"company_name" : "Film Afrika"
+	},
+	{
+		"production_company_key" : 774,
+		"company_name" : "Valkyrie Films"
+	},
+	{
+		"production_company_key" : 778,
+		"company_name" : "Las Producciones del Escorpion"
+	},
+	{
+		"production_company_key" : 779,
+		"company_name" : "Lucky Red"
+	},
+	{
+		"production_company_key" : 780,
+		"company_name" : "Red Wagon Productions"
+	},
+	{
+		"production_company_key" : 784,
+		"company_name" : "Himenu00f3ptero"
+	},
+	{
+		"production_company_key" : 785,
+		"company_name" : "Sociedad General de Cine S.A."
+	},
+	{
+		"production_company_key" : 787,
+		"company_name" : "3 Arts Entertainment"
+	},
+	{
+		"production_company_key" : 788,
+		"company_name" : "Bel Air Entertainment"
+	},
+	{
+		"production_company_key" : 793,
+		"company_name" : "Galatu00e9e Films"
+	},
+	{
+		"production_company_key" : 794,
+		"company_name" : "Agi Orsi Productions"
+	},
+	{
+		"production_company_key" : 795,
+		"company_name" : "Vans Off the Wall"
+	},
+	{
+		"production_company_key" : 798,
+		"company_name" : "Samuel Goldwyn Company"
+	},
+	{
+		"production_company_key" : 802,
+		"company_name" : "Egg Pictures"
+	},
+	{
+		"production_company_key" : 803,
+		"company_name" : "Alliance Atlantis Communications"
+	},
+	{
+		"production_company_key" : 804,
+		"company_name" : "Natural Nylon Entertainment"
+	},
+	{
+		"production_company_key" : 805,
+		"company_name" : "Serendipity Point Films"
+	},
+	{
+		"production_company_key" : 806,
+		"company_name" : "Tu00e9lu00e9film Canada"
+	},
+	{
+		"production_company_key" : 807,
+		"company_name" : "The Harold Greenberg Fund"
+	},
+	{
+		"production_company_key" : 808,
+		"company_name" : "The Movie Network"
+	},
+	{
+		"production_company_key" : 809,
+		"company_name" : "Union Gu00e9nu00e9rale Cinu00e9matographique"
+	},
+	{
+		"production_company_key" : 810,
+		"company_name" : "Persistent Entertainment"
+	},
+	{
+		"production_company_key" : 812,
+		"company_name" : "Deuce Three Productions"
+	},
+	{
+		"production_company_key" : 813,
+		"company_name" : "DiNovi Pictures"
+	},
+	{
+		"production_company_key" : 814,
+		"company_name" : "Isabella Films BV"
+	},
+	{
+		"production_company_key" : 816,
+		"company_name" : "FilmEngine"
+	},
+	{
+		"production_company_key" : 817,
+		"company_name" : "Katalyst Films"
+	},
+	{
+		"production_company_key" : 818,
+		"company_name" : "Gimages 5"
+	},
+	{
+		"production_company_key" : 819,
+		"company_name" : "Mars Films"
+	},
+	{
+		"production_company_key" : 821,
+		"company_name" : "The Greenlight Fund"
+	},
+	{
+		"production_company_key" : 822,
+		"company_name" : "Happinet Pictures"
+	},
+	{
+		"production_company_key" : 823,
+		"company_name" : "Telepool"
+	},
+	{
+		"production_company_key" : 824,
+		"company_name" : "Kopelson Entertainment"
+	},
+	{
+		"production_company_key" : 826,
+		"company_name" : "Capitol Films"
+	},
+	{
+		"production_company_key" : 827,
+		"company_name" : "VIP 3 Medienfonds"
+	},
+	{
+		"production_company_key" : 828,
+		"company_name" : "Ultra Films"
+	},
+	{
+		"production_company_key" : 829,
+		"company_name" : "Vertigo Entertainment"
+	},
+	{
+		"production_company_key" : 830,
+		"company_name" : "Senator International"
+	},
+	{
+		"production_company_key" : 831,
+		"company_name" : "Saturn Films"
+	},
+	{
+		"production_company_key" : 838,
+		"company_name" : "Paramount Vantage"
+	},
+	{
+		"production_company_key" : 839,
+		"company_name" : "Lou Yi Inc."
+	},
+	{
+		"production_company_key" : 840,
+		"company_name" : "Lawrence Gordon Productions"
+	},
+	{
+		"production_company_key" : 842,
+		"company_name" : "GreeneStreet/SKE Films"
+	},
+	{
+		"production_company_key" : 846,
+		"company_name" : "2929 Productions"
+	},
+	{
+		"production_company_key" : 850,
+		"company_name" : "Eurimages"
+	},
+	{
+		"production_company_key" : 851,
+		"company_name" : "MEDIA Programme of the European Union"
+	},
+	{
+		"production_company_key" : 854,
+		"company_name" : "Sofica Europacorp"
+	},
+	{
+		"production_company_key" : 856,
+		"company_name" : "Wild Bunch"
+	},
+	{
+		"production_company_key" : 859,
+		"company_name" : "Saga Film"
+	},
+	{
+		"production_company_key" : 860,
+		"company_name" : "Celluloid Dreams"
+	},
+	{
+		"production_company_key" : 862,
+		"company_name" : "The Kennedy/Marshall Company"
+	},
+	{
+		"production_company_key" : 863,
+		"company_name" : "Mantarraya Producciones"
+	},
+	{
+		"production_company_key" : 864,
+		"company_name" : "No Dream Cinema"
+	},
+	{
+		"production_company_key" : 865,
+		"company_name" : "Motel Films"
+	},
+	{
+		"production_company_key" : 866,
+		"company_name" : "Pathu00e9 Renn Productions"
+	},
+	{
+		"production_company_key" : 867,
+		"company_name" : "Anka Film"
+	},
+	{
+		"production_company_key" : 869,
+		"company_name" : "Dee Gee Entertainment"
+	},
+	{
+		"production_company_key" : 870,
+		"company_name" : "Tapestry Films"
+	},
+	{
+		"production_company_key" : 871,
+		"company_name" : "British Screen"
+	},
+	{
+		"production_company_key" : 877,
+		"company_name" : "Casey Silver Productions"
+	},
+	{
+		"production_company_key" : 879,
+		"company_name" : "Out of the Blue... Entertainment"
+	},
+	{
+		"production_company_key" : 881,
+		"company_name" : "Daiei Studios"
+	},
+	{
+		"production_company_key" : 882,
+		"company_name" : "Toho Company"
+	},
+	{
+		"production_company_key" : 886,
+		"company_name" : "Kinokompaniya CTB"
+	},
+	{
+		"production_company_key" : 888,
+		"company_name" : "Overseas FilmGroup"
+	},
+	{
+		"production_company_key" : 889,
+		"company_name" : "Outlaw Productions"
+	},
+	{
+		"production_company_key" : 890,
+		"company_name" : "Cheyenne Enterprises"
+	},
+	{
+		"production_company_key" : 892,
+		"company_name" : "Qwerty Films"
+	},
+	{
+		"production_company_key" : 893,
+		"company_name" : "Stanley Kramer Productions"
+	},
+	{
+		"production_company_key" : 897,
+		"company_name" : "Taurus Films"
+	},
+	{
+		"production_company_key" : 902,
+		"company_name" : "AZL Productions KG"
+	},
+	{
+		"production_company_key" : 903,
+		"company_name" : "David Brown Productions"
+	},
+	{
+		"production_company_key" : 904,
+		"company_name" : "MFP Munich Film Partners"
+	},
+	{
+		"production_company_key" : 905,
+		"company_name" : "Phase 1 Productions"
+	},
+	{
+		"production_company_key" : 906,
+		"company_name" : "Revelations Entertainment"
+	},
+	{
+		"production_company_key" : 907,
+		"company_name" : "Overbrook Films"
+	},
+	{
+		"production_company_key" : 908,
+		"company_name" : "Mystery Clock Cinema"
+	},
+	{
+		"production_company_key" : 915,
+		"company_name" : "Hollywood Pictures"
+	},
+	{
+		"production_company_key" : 916,
+		"company_name" : "The Charlie Mopic Company"
+	},
+	{
+		"production_company_key" : 919,
+		"company_name" : "Beacon Communications"
+	},
+	{
+		"production_company_key" : 921,
+		"company_name" : "Next Wednesday Productions"
+	},
+	{
+		"production_company_key" : 922,
+		"company_name" : "SenArt Films"
+	},
+	{
+		"production_company_key" : 923,
+		"company_name" : "Legendary Pictures"
+	},
+	{
+		"production_company_key" : 924,
+		"company_name" : "The Turman-Morrissey Company"
+	},
+	{
+		"production_company_key" : 925,
+		"company_name" : "Nu Image Films"
+	},
+	{
+		"production_company_key" : 927,
+		"company_name" : "Palace Pictures"
+	},
+	{
+		"production_company_key" : 931,
+		"company_name" : "HAL Films"
+	},
+	{
+		"production_company_key" : 932,
+		"company_name" : "Mirage Enterprises"
+	},
+	{
+		"production_company_key" : 938,
+		"company_name" : "First Floor Features"
+	},
+	{
+		"production_company_key" : 939,
+		"company_name" : "New Legacy"
+	},
+	{
+		"production_company_key" : 945,
+		"company_name" : "Cheongeoram"
+	},
+	{
+		"production_company_key" : 946,
+		"company_name" : "CJ Capital Investment"
+	},
+	{
+		"production_company_key" : 959,
+		"company_name" : "IndieProd Company Productions"
+	},
+	{
+		"production_company_key" : 961,
+		"company_name" : "Roger Birnbaum Productions"
+	},
+	{
+		"production_company_key" : 963,
+		"company_name" : "Destiny"
+	},
+	{
+		"production_company_key" : 964,
+		"company_name" : "Keith Barish Productions"
+	},
+	{
+		"production_company_key" : 965,
+		"company_name" : "TAFT Entertainment Pictures"
+	},
+	{
+		"production_company_key" : 966,
+		"company_name" : "Monarch Pictures"
+	},
+	{
+		"production_company_key" : 969,
+		"company_name" : "Golden Harvest Pictures"
+	},
+	{
+		"production_company_key" : 972,
+		"company_name" : "Current Entertainment"
+	},
+	{
+		"production_company_key" : 973,
+		"company_name" : "Immortal Entertainment"
+	},
+	{
+		"production_company_key" : 975,
+		"company_name" : "Gerber Pictures"
+	},
+	{
+		"production_company_key" : 978,
+		"company_name" : "Across the River Productions"
+	},
+	{
+		"production_company_key" : 979,
+		"company_name" : "Woods Entertainment"
+	},
+	{
+		"production_company_key" : 980,
+		"company_name" : "The Glasgow Film Fund"
+	},
+	{
+		"production_company_key" : 986,
+		"company_name" : "Degeto Film"
+	},
+	{
+		"production_company_key" : 987,
+		"company_name" : "USA Films"
+	},
+	{
+		"production_company_key" : 991,
+		"company_name" : "Totally Independent"
+	},
+	{
+		"production_company_key" : 995,
+		"company_name" : "Cinerenta Medienbeteiligungs KG"
+	},
+	{
+		"production_company_key" : 999,
+		"company_name" : "Belstar Productions"
+	},
+	{
+		"production_company_key" : 1001,
+		"company_name" : "Solaris Film"
+	},
+	{
+		"production_company_key" : 1003,
+		"company_name" : "Filmkameratene A/S"
+	},
+	{
+		"production_company_key" : 1010,
+		"company_name" : "Marimark Productions"
+	},
+	{
+		"production_company_key" : 1012,
+		"company_name" : "Parabolic Pictures"
+	},
+	{
+		"production_company_key" : 1013,
+		"company_name" : "Stable Way Entertainment"
+	},
+	{
+		"production_company_key" : 1014,
+		"company_name" : "Target Media Entertainment"
+	},
+	{
+		"production_company_key" : 1020,
+		"company_name" : "Millenium Films"
+	},
+	{
+		"production_company_key" : 1030,
+		"company_name" : "Magnolia Pictures"
+	},
+	{
+		"production_company_key" : 1031,
+		"company_name" : "Filmazure"
+	},
+	{
+		"production_company_key" : 1032,
+		"company_name" : "Pirol Stiftung"
+	},
+	{
+		"production_company_key" : 1033,
+		"company_name" : "Victoires International"
+	},
+	{
+		"production_company_key" : 1038,
+		"company_name" : "Bazelevs Production"
+	},
+	{
+		"production_company_key" : 1039,
+		"company_name" : "Channel One Russia"
+	},
+	{
+		"production_company_key" : 1040,
+		"company_name" : "TABBAK"
+	},
+	{
+		"production_company_key" : 1044,
+		"company_name" : "Franton Production"
+	},
+	{
+		"production_company_key" : 1049,
+		"company_name" : "Kasander Film Company"
+	},
+	{
+		"production_company_key" : 1050,
+		"company_name" : "David LaChapelle Studios"
+	},
+	{
+		"production_company_key" : 1051,
+		"company_name" : "HSI Productions"
+	},
+	{
+		"production_company_key" : 1052,
+		"company_name" : "Darkfibre Entertainment Ltd."
+	},
+	{
+		"production_company_key" : 1053,
+		"company_name" : "Got Films"
+	},
+	{
+		"production_company_key" : 1062,
+		"company_name" : "Boll Kino Beteiligungs GmbH & Co. KG"
+	},
+	{
+		"production_company_key" : 1063,
+		"company_name" : "Brightlight Pictures"
+	},
+	{
+		"production_company_key" : 1064,
+		"company_name" : "Herold Productions"
+	},
+	{
+		"production_company_key" : 1066,
+		"company_name" : "Distant Horizons"
+	},
+	{
+		"production_company_key" : 1070,
+		"company_name" : "Milagro Films"
+	},
+	{
+		"production_company_key" : 1073,
+		"company_name" : "Gordon Company"
+	},
+	{
+		"production_company_key" : 1075,
+		"company_name" : "Europa Corp"
+	},
+	{
+		"production_company_key" : 1076,
+		"company_name" : "Apipoulau00ef"
+	},
+	{
+		"production_company_key" : 1088,
+		"company_name" : "Alcon Entertainment"
+	},
+	{
+		"production_company_key" : 1089,
+		"company_name" : "Witt/Thomas Productions"
+	},
+	{
+		"production_company_key" : 1092,
+		"company_name" : "Mockingbird Pictures"
+	},
+	{
+		"production_company_key" : 1095,
+		"company_name" : "Portman Entertainment Group"
+	},
+	{
+		"production_company_key" : 1101,
+		"company_name" : "Bu00e9same Mucho Pictures"
+	},
+	{
+		"production_company_key" : 1102,
+		"company_name" : "Producciones Anhelo"
+	},
+	{
+		"production_company_key" : 1113,
+		"company_name" : "Les Films 21"
+	},
+	{
+		"production_company_key" : 1115,
+		"company_name" : "M6 Films"
+	},
+	{
+		"production_company_key" : 1138,
+		"company_name" : "Filmways Pictures"
+	},
+	{
+		"production_company_key" : 1143,
+		"company_name" : "Sound for Film"
+	},
+	{
+		"production_company_key" : 1153,
+		"company_name" : "Act III Communications"
+	},
+	{
+		"production_company_key" : 1155,
+		"company_name" : "Incorporated Television Company"
+	},
+	{
+		"production_company_key" : 1156,
+		"company_name" : "Conundrum Entertainment"
+	},
+	{
+		"production_company_key" : 1157,
+		"company_name" : "Les Cinu00e9mas de la Zone"
+	},
+	{
+		"production_company_key" : 1163,
+		"company_name" : "Larger Than Life Productions"
+	},
+	{
+		"production_company_key" : 1168,
+		"company_name" : "Novo Arturo Films"
+	},
+	{
+		"production_company_key" : 1171,
+		"company_name" : "Epsilon Motion Pictures"
+	},
+	{
+		"production_company_key" : 1172,
+		"company_name" : "Hyde Park Films"
+	},
+	{
+		"production_company_key" : 1173,
+		"company_name" : "Shopgirl"
+	},
+	{
+		"production_company_key" : 1176,
+		"company_name" : "Lorimar Film Entertainment"
+	},
+	{
+		"production_company_key" : 1178,
+		"company_name" : "Pathu00e9 Pictures International"
+	},
+	{
+		"production_company_key" : 1182,
+		"company_name" : "Telecinco"
+	},
+	{
+		"production_company_key" : 1187,
+		"company_name" : "Michael London Productions"
+	},
+	{
+		"production_company_key" : 1188,
+		"company_name" : "William Dozier Productions"
+	},
+	{
+		"production_company_key" : 1189,
+		"company_name" : "Greenlawn Productions"
+	},
+	{
+		"production_company_key" : 1197,
+		"company_name" : "Vortex"
+	},
+	{
+		"production_company_key" : 1202,
+		"company_name" : "Nippon Film Development and Finance Inc."
+	},
+	{
+		"production_company_key" : 1204,
+		"company_name" : "Ascendant Pictures"
+	},
+	{
+		"production_company_key" : 1205,
+		"company_name" : "Endgame Entertainment"
+	},
+	{
+		"production_company_key" : 1206,
+		"company_name" : "Entertainment Manufacturing Company"
+	},
+	{
+		"production_company_key" : 1207,
+		"company_name" : "Reeleyes Film"
+	},
+	{
+		"production_company_key" : 1208,
+		"company_name" : "Rising Star"
+	},
+	{
+		"production_company_key" : 1212,
+		"company_name" : "Empire Pictures"
+	},
+	{
+		"production_company_key" : 1216,
+		"company_name" : "Dino de Laurentiis Cinematografica"
+	},
+	{
+		"production_company_key" : 1218,
+		"company_name" : "The Film Consortium"
+	},
+	{
+		"production_company_key" : 1219,
+		"company_name" : "Baby Cow Productions"
+	},
+	{
+		"production_company_key" : 1224,
+		"company_name" : "Intrepid Pictures"
+	},
+	{
+		"production_company_key" : 1225,
+		"company_name" : "One Race Productions"
+	},
+	{
+		"production_company_key" : 1232,
+		"company_name" : "2003 Productions"
+	},
+	{
+		"production_company_key" : 1236,
+		"company_name" : "Mandalay Entertainment"
+	},
+	{
+		"production_company_key" : 1246,
+		"company_name" : "River Road Entertainment"
+	},
+	{
+		"production_company_key" : 1251,
+		"company_name" : "ARD"
+	},
+	{
+		"production_company_key" : 1256,
+		"company_name" : "Producers Sales Organization"
+	},
+	{
+		"production_company_key" : 1257,
+		"company_name" : "Butcher's Run Productions"
+	},
+	{
+		"production_company_key" : 1260,
+		"company_name" : "Synchronistic Pictures"
+	},
+	{
+		"production_company_key" : 1261,
+		"company_name" : "Scala Productions"
+	},
+	{
+		"production_company_key" : 1266,
+		"company_name" : "Octagon Films"
+	},
+	{
+		"production_company_key" : 1267,
+		"company_name" : "Ecosse Films"
+	},
+	{
+		"production_company_key" : 1268,
+		"company_name" : "Focus Films"
+	},
+	{
+		"production_company_key" : 1269,
+		"company_name" : "Momentum Films"
+	},
+	{
+		"production_company_key" : 1270,
+		"company_name" : "National Lottery"
+	},
+	{
+		"production_company_key" : 1271,
+		"company_name" : "Pariah Entertainment Group"
+	},
+	{
+		"production_company_key" : 1272,
+		"company_name" : "The First Channel"
+	},
+	{
+		"production_company_key" : 1274,
+		"company_name" : "Clinica Estetico"
+	},
+	{
+		"production_company_key" : 1280,
+		"company_name" : "Pacific Western"
+	},
+	{
+		"production_company_key" : 1296,
+		"company_name" : "Crossbow Productions"
+	},
+	{
+		"production_company_key" : 1297,
+		"company_name" : "Gruskoff/Venture Films"
+	},
+	{
+		"production_company_key" : 1298,
+		"company_name" : "Jouer Limited"
+	},
+	{
+		"production_company_key" : 1301,
+		"company_name" : "Joseph M. Singer Entertainment"
+	},
+	{
+		"production_company_key" : 1302,
+		"company_name" : "Davis Entertainment"
+	},
+	{
+		"production_company_key" : 1305,
+		"company_name" : "L.I.F.T. Production"
+	},
+	{
+		"production_company_key" : 1307,
+		"company_name" : "Triangle Film Corporation"
+	},
+	{
+		"production_company_key" : 1308,
+		"company_name" : "Wark Producing Corp."
+	},
+	{
+		"production_company_key" : 1309,
+		"company_name" : "Rainforest Films"
+	},
+	{
+		"production_company_key" : 1311,
+		"company_name" : "The Asylum"
+	},
+	{
+		"production_company_key" : 1314,
+		"company_name" : "Hammer Film Productions"
+	},
+	{
+		"production_company_key" : 1315,
+		"company_name" : "Charles Chaplin Productions"
+	},
+	{
+		"production_company_key" : 1316,
+		"company_name" : "Monterey Productions"
+	},
+	{
+		"production_company_key" : 1317,
+		"company_name" : "Charles K. Feldman Group"
+	},
+	{
+		"production_company_key" : 1323,
+		"company_name" : "Florin Productions"
+	},
+	{
+		"production_company_key" : 1324,
+		"company_name" : "Jerome Hellman Productions"
+	},
+	{
+		"production_company_key" : 1350,
+		"company_name" : "Parkway Productions"
+	},
+	{
+		"production_company_key" : 1353,
+		"company_name" : "Hanna-Barbera Productions"
+	},
+	{
+		"production_company_key" : 1360,
+		"company_name" : "Glass Eye Pix"
+	},
+	{
+		"production_company_key" : 1363,
+		"company_name" : "Haft Entertainment"
+	},
+	{
+		"production_company_key" : 1370,
+		"company_name" : "Castel Film Romania"
+	},
+	{
+		"production_company_key" : 1380,
+		"company_name" : "Australian Film Finance Corporation"
+	},
+	{
+		"production_company_key" : 1382,
+		"company_name" : "PolyGram Filmed Entertainment"
+	},
+	{
+		"production_company_key" : 1390,
+		"company_name" : "Celador Productions"
+	},
+	{
+		"production_company_key" : 1393,
+		"company_name" : "Tokyo Broadcasting System (TBS)"
+	},
+	{
+		"production_company_key" : 1403,
+		"company_name" : "Franchise Pictures"
+	},
+	{
+		"production_company_key" : 1419,
+		"company_name" : "Virgin"
+	},
+	{
+		"production_company_key" : 1420,
+		"company_name" : "ContentFilm"
+	},
+	{
+		"production_company_key" : 1422,
+		"company_name" : "Killer Films"
+	},
+	{
+		"production_company_key" : 1423,
+		"company_name" : "Escape Artists"
+	},
+	{
+		"production_company_key" : 1424,
+		"company_name" : "Ada Films"
+	},
+	{
+		"production_company_key" : 1432,
+		"company_name" : "Republic Pictures"
+	},
+	{
+		"production_company_key" : 1444,
+		"company_name" : "Cannon Group"
+	},
+	{
+		"production_company_key" : 1445,
+		"company_name" : "Golan-Globus"
+	},
+	{
+		"production_company_key" : 1450,
+		"company_name" : "Front Street Productions"
+	},
+	{
+		"production_company_key" : 1464,
+		"company_name" : "Summer Knowledge LLC"
+	},
+	{
+		"production_company_key" : 1470,
+		"company_name" : "Wild Bear Films"
+	},
+	{
+		"production_company_key" : 1471,
+		"company_name" : "Archer Street Productions"
+	},
+	{
+		"production_company_key" : 1472,
+		"company_name" : "Delux Productions"
+	},
+	{
+		"production_company_key" : 1473,
+		"company_name" : "Depth of Field"
+	},
+	{
+		"production_company_key" : 1483,
+		"company_name" : "Redeemable Features"
+	},
+	{
+		"production_company_key" : 1484,
+		"company_name" : "Yorktown Productions"
+	},
+	{
+		"production_company_key" : 1490,
+		"company_name" : "Kintop Pictures"
+	},
+	{
+		"production_company_key" : 1497,
+		"company_name" : "Marianne Productions"
+	},
+	{
+		"production_company_key" : 1504,
+		"company_name" : "Cinergi Pictures Entertainment"
+	},
+	{
+		"production_company_key" : 1507,
+		"company_name" : "International Production Company"
+	},
+	{
+		"production_company_key" : 1508,
+		"company_name" : "Wildgaze Films"
+	},
+	{
+		"production_company_key" : 1512,
+		"company_name" : "John Wells Productions"
+	},
+	{
+		"production_company_key" : 1514,
+		"company_name" : "Tim Burton Animation Company"
+	},
+	{
+		"production_company_key" : 1515,
+		"company_name" : "Will Vinton Studios"
+	},
+	{
+		"production_company_key" : 1519,
+		"company_name" : "A&B Producoes"
+	},
+	{
+		"production_company_key" : 1522,
+		"company_name" : "Neal Street Productions"
+	},
+	{
+		"production_company_key" : 1531,
+		"company_name" : "Smart Egg Pictures"
+	},
+	{
+		"production_company_key" : 1533,
+		"company_name" : "Indigo Film"
+	},
+	{
+		"production_company_key" : 1538,
+		"company_name" : "Comedy Central"
+	},
+	{
+		"production_company_key" : 1539,
+		"company_name" : "Fuller Films"
+	},
+	{
+		"production_company_key" : 1550,
+		"company_name" : "Evamere Entertainment"
+	},
+	{
+		"production_company_key" : 1553,
+		"company_name" : "Selznick International Pictures"
+	},
+	{
+		"production_company_key" : 1557,
+		"company_name" : "The Mark Gordon Company"
+	},
+	{
+		"production_company_key" : 1560,
+		"company_name" : "Roth-Arnold Productions"
+	},
+	{
+		"production_company_key" : 1561,
+		"company_name" : "Pegasus Film Partners"
+	},
+	{
+		"production_company_key" : 1565,
+		"company_name" : "Avery Pix"
+	},
+	{
+		"production_company_key" : 1566,
+		"company_name" : "Spanky Pictures"
+	},
+	{
+		"production_company_key" : 1569,
+		"company_name" : "Yash Raj Films"
+	},
+	{
+		"production_company_key" : 1584,
+		"company_name" : "ITC Entertainment"
+	},
+	{
+		"production_company_key" : 1591,
+		"company_name" : "Rhino Films"
+	},
+	{
+		"production_company_key" : 1600,
+		"company_name" : "Craven-Maddalena Films"
+	},
+	{
+		"production_company_key" : 1601,
+		"company_name" : "Maven Entertainment"
+	},
+	{
+		"production_company_key" : 1606,
+		"company_name" : "Brillstein-Grey Entertainment"
+	},
+	{
+		"production_company_key" : 1607,
+		"company_name" : "Gold/Miller Productions"
+	},
+	{
+		"production_company_key" : 1608,
+		"company_name" : "Wayans Bros. Entertainment"
+	},
+	{
+		"production_company_key" : 1615,
+		"company_name" : "Fortissimo Films"
+	},
+	{
+		"production_company_key" : 1616,
+		"company_name" : "Process Productions"
+	},
+	{
+		"production_company_key" : 1617,
+		"company_name" : "Q Television"
+	},
+	{
+		"production_company_key" : 1620,
+		"company_name" : "Nuyorican Productions"
+	},
+	{
+		"production_company_key" : 1627,
+		"company_name" : "Maran Film"
+	},
+	{
+		"production_company_key" : 1631,
+		"company_name" : "Raw Nerve"
+	},
+	{
+		"production_company_key" : 1632,
+		"company_name" : "Lionsgate"
+	},
+	{
+		"production_company_key" : 1633,
+		"company_name" : "Next Entertainment"
+	},
+	{
+		"production_company_key" : 1643,
+		"company_name" : "First Independent Films"
+	},
+	{
+		"production_company_key" : 1644,
+		"company_name" : "Largo Entertainment"
+	},
+	{
+		"production_company_key" : 1645,
+		"company_name" : "Scott Free Productions"
+	},
+	{
+		"production_company_key" : 1646,
+		"company_name" : "Trap-Two-Zero Productions"
+	},
+	{
+		"production_company_key" : 1649,
+		"company_name" : "Reforma Films"
+	},
+	{
+		"production_company_key" : 1656,
+		"company_name" : "Pangaea"
+	},
+	{
+		"production_company_key" : 1666,
+		"company_name" : "Rhu00f4ne-Alpes Cinu00e9ma"
+	},
+	{
+		"production_company_key" : 1668,
+		"company_name" : "Riff Raff Film Productions"
+	},
+	{
+		"production_company_key" : 1677,
+		"company_name" : "Mediaset"
+	},
+	{
+		"production_company_key" : 1683,
+		"company_name" : "Andell Entertainment"
+	},
+	{
+		"production_company_key" : 1685,
+		"company_name" : "Hofflund/Polone"
+	},
+	{
+		"production_company_key" : 1687,
+		"company_name" : "Korea Capital Investment"
+	},
+	{
+		"production_company_key" : 1688,
+		"company_name" : "Moho Films"
+	},
+	{
+		"production_company_key" : 1689,
+		"company_name" : "TSJ Entertainment"
+	},
+	{
+		"production_company_key" : 1690,
+		"company_name" : "Samsung Venture Capital"
+	},
+	{
+		"production_company_key" : 1691,
+		"company_name" : "Ilshin Capital Investments"
+	},
+	{
+		"production_company_key" : 1692,
+		"company_name" : "Centurion Investment"
+	},
+	{
+		"production_company_key" : 1693,
+		"company_name" : "Nina Saxon Film Design"
+	},
+	{
+		"production_company_key" : 1700,
+		"company_name" : "Cherry Road Films LLC"
+	},
+	{
+		"production_company_key" : 1702,
+		"company_name" : "Medusa Produzione"
+	},
+	{
+		"production_company_key" : 1704,
+		"company_name" : "Bavaria Film"
+	},
+	{
+		"production_company_key" : 1708,
+		"company_name" : "Starbucks Entertainment"
+	},
+	{
+		"production_company_key" : 1711,
+		"company_name" : "Ognon Pictures"
+	},
+	{
+		"production_company_key" : 1712,
+		"company_name" : "Odessa Films"
+	},
+	{
+		"production_company_key" : 1718,
+		"company_name" : "Odyssey"
+	},
+	{
+		"production_company_key" : 1727,
+		"company_name" : "Movision"
+	},
+	{
+		"production_company_key" : 1755,
+		"company_name" : "Allied Filmmakers"
+	},
+	{
+		"production_company_key" : 1756,
+		"company_name" : "Broadway Video"
+	},
+	{
+		"production_company_key" : 1757,
+		"company_name" : "Mad Chance"
+	},
+	{
+		"production_company_key" : 1765,
+		"company_name" : "Turner Pictures"
+	},
+	{
+		"production_company_key" : 1766,
+		"company_name" : "Dieter Geissler Filmproduktion"
+	},
+	{
+		"production_company_key" : 1778,
+		"company_name" : "Dentsu Inc."
+	},
+	{
+		"production_company_key" : 1779,
+		"company_name" : "Tokuma Shoten"
+	},
+	{
+		"production_company_key" : 1782,
+		"company_name" : "Smoke House"
+	},
+	{
+		"production_company_key" : 1783,
+		"company_name" : "Jaret Entertainment"
+	},
+	{
+		"production_company_key" : 1784,
+		"company_name" : "Partizan"
+	},
+	{
+		"production_company_key" : 1785,
+		"company_name" : "Likely Story"
+	},
+	{
+		"production_company_key" : 1786,
+		"company_name" : "Dark Castle Entertainment"
+	},
+	{
+		"production_company_key" : 1787,
+		"company_name" : "Central Cinema Company Film"
+	},
+	{
+		"production_company_key" : 1804,
+		"company_name" : "North by Northwest Entertainment"
+	},
+	{
+		"production_company_key" : 1807,
+		"company_name" : "Warwick Film Productions"
+	},
+	{
+		"production_company_key" : 1809,
+		"company_name" : "IM Filmproduktion"
+	},
+	{
+		"production_company_key" : 1810,
+		"company_name" : "Cosmic Pictures"
+	},
+	{
+		"production_company_key" : 1811,
+		"company_name" : "FilmColony"
+	},
+	{
+		"production_company_key" : 1819,
+		"company_name" : "Cinema 77"
+	},
+	{
+		"production_company_key" : 1824,
+		"company_name" : "Gravier Productions"
+	},
+	{
+		"production_company_key" : 1836,
+		"company_name" : "Contrafilm"
+	},
+	{
+		"production_company_key" : 1838,
+		"company_name" : "Firm Films"
+	},
+	{
+		"production_company_key" : 1840,
+		"company_name" : "Elevation Filmworks"
+	},
+	{
+		"production_company_key" : 1843,
+		"company_name" : "Grand Army Entertainment"
+	},
+	{
+		"production_company_key" : 1848,
+		"company_name" : "Les Films d'Ici"
+	},
+	{
+		"production_company_key" : 1854,
+		"company_name" : "Dan Films"
+	},
+	{
+		"production_company_key" : 1861,
+		"company_name" : "Polish Brothers Construction"
+	},
+	{
+		"production_company_key" : 1865,
+		"company_name" : "Zanuck/Brown Productions"
+	},
+	{
+		"production_company_key" : 1867,
+		"company_name" : "Golden Mean"
+	},
+	{
+		"production_company_key" : 1872,
+		"company_name" : "Bleiberg Entertainment"
+	},
+	{
+		"production_company_key" : 1885,
+		"company_name" : "Silver Pictures"
+	},
+	{
+		"production_company_key" : 1887,
+		"company_name" : "Lorimar Motion Pictures"
+	},
+	{
+		"production_company_key" : 1894,
+		"company_name" : "Josephson Entertainment"
+	},
+	{
+		"production_company_key" : 1898,
+		"company_name" : "Bu00f3rd Scannu00e1n na hu00c9ireann"
+	},
+	{
+		"production_company_key" : 1903,
+		"company_name" : "Columbus 81 Productions"
+	},
+	{
+		"production_company_key" : 1915,
+		"company_name" : "Becker International"
+	},
+	{
+		"production_company_key" : 1916,
+		"company_name" : "Claraflora"
+	},
+	{
+		"production_company_key" : 1917,
+		"company_name" : "EM Media"
+	},
+	{
+		"production_company_key" : 1918,
+		"company_name" : "NorthSee"
+	},
+	{
+		"production_company_key" : 1938,
+		"company_name" : "Scholastic Productions"
+	},
+	{
+		"production_company_key" : 1947,
+		"company_name" : "New Deal Productions"
+	},
+	{
+		"production_company_key" : 1950,
+		"company_name" : "New World Pictures"
+	},
+	{
+		"production_company_key" : 1962,
+		"company_name" : "ATO Pictures"
+	},
+	{
+		"production_company_key" : 1972,
+		"company_name" : "X-Filme Creative Pool"
+	},
+	{
+		"production_company_key" : 1973,
+		"company_name" : "Three Strange Angels"
+	},
+	{
+		"production_company_key" : 1974,
+		"company_name" : "Duplass Brothers Productions"
+	},
+	{
+		"production_company_key" : 1975,
+		"company_name" : "Sneak Preview Entertainment"
+	},
+	{
+		"production_company_key" : 1976,
+		"company_name" : "Film Science"
+	},
+	{
+		"production_company_key" : 1980,
+		"company_name" : "Woodfall Film Productions"
+	},
+	{
+		"production_company_key" : 1983,
+		"company_name" : "Grosvenor Park Films LLP"
+	},
+	{
+		"production_company_key" : 1991,
+		"company_name" : "Motion Investment Group"
+	},
+	{
+		"production_company_key" : 1992,
+		"company_name" : "La Petite Reine"
+	},
+	{
+		"production_company_key" : 1993,
+		"company_name" : "TF 1 Film Productions"
+	},
+	{
+		"production_company_key" : 1994,
+		"company_name" : "Tri Pictures"
+	},
+	{
+		"production_company_key" : 1995,
+		"company_name" : "Sorolla Films"
+	},
+	{
+		"production_company_key" : 1996,
+		"company_name" : "Novo RPI"
+	},
+	{
+		"production_company_key" : 1997,
+		"company_name" : "Banques Populaire Image 7"
+	},
+	{
+		"production_company_key" : 2009,
+		"company_name" : "Maipo Film- og TV Produksjon"
+	},
+	{
+		"production_company_key" : 2015,
+		"company_name" : "Darlow Smithson Productions"
+	},
+	{
+		"production_company_key" : 2019,
+		"company_name" : "Osiris Films"
+	},
+	{
+		"production_company_key" : 2029,
+		"company_name" : "Estudios Picasso"
+	},
+	{
+		"production_company_key" : 2030,
+		"company_name" : "Participant Productions"
+	},
+	{
+		"production_company_key" : 2031,
+		"company_name" : "Playtone Production"
+	},
+	{
+		"production_company_key" : 2051,
+		"company_name" : "Kinowelt Filmproduktion"
+	},
+	{
+		"production_company_key" : 2053,
+		"company_name" : "Grosvenor Park Media Ltd."
+	},
+	{
+		"production_company_key" : 2054,
+		"company_name" : "Ruby Films"
+	},
+	{
+		"production_company_key" : 2055,
+		"company_name" : "Skyline Films"
+	},
+	{
+		"production_company_key" : 2061,
+		"company_name" : "Twisted Pictures"
+	},
+	{
+		"production_company_key" : 2064,
+		"company_name" : "Lietuvos Kinostudija"
+	},
+	{
+		"production_company_key" : 2065,
+		"company_name" : "Scout Productions"
+	},
+	{
+		"production_company_key" : 2066,
+		"company_name" : "Zanagar Films"
+	},
+	{
+		"production_company_key" : 2070,
+		"company_name" : "Rastar Pictures"
+	},
+	{
+		"production_company_key" : 2073,
+		"company_name" : "Kadokawa Pictures"
+	},
+	{
+		"production_company_key" : 2087,
+		"company_name" : "Blackfriars Bridge Films"
+	},
+	{
+		"production_company_key" : 2088,
+		"company_name" : "NALA Films"
+	},
+	{
+		"production_company_key" : 2089,
+		"company_name" : "Samuels Media"
+	},
+	{
+		"production_company_key" : 2090,
+		"company_name" : "Motion Picture Corporation of America"
+	},
+	{
+		"production_company_key" : 2092,
+		"company_name" : "Mike Zoss Productions"
+	},
+	{
+		"production_company_key" : 2104,
+		"company_name" : "Tangled Web Productions"
+	},
+	{
+		"production_company_key" : 2106,
+		"company_name" : "Saban Entertainment"
+	},
+	{
+		"production_company_key" : 2108,
+		"company_name" : "Battleplan Productions"
+	},
+	{
+		"production_company_key" : 2116,
+		"company_name" : "VIP Medienfonds 4"
+	},
+	{
+		"production_company_key" : 2124,
+		"company_name" : "Melvin Simon Productions"
+	},
+	{
+		"production_company_key" : 2130,
+		"company_name" : "Mr. Mudd Production"
+	},
+	{
+		"production_company_key" : 2146,
+		"company_name" : "David Hamilton Productions"
+	},
+	{
+		"production_company_key" : 2147,
+		"company_name" : "Echo Lake Productions"
+	},
+	{
+		"production_company_key" : 2148,
+		"company_name" : "Flagship International"
+	},
+	{
+		"production_company_key" : 2149,
+		"company_name" : "Noble Nomad Pictures"
+	},
+	{
+		"production_company_key" : 2150,
+		"company_name" : "Greenestreet Films"
+	},
+	{
+		"production_company_key" : 2152,
+		"company_name" : "GreeneStreet Films"
+	},
+	{
+		"production_company_key" : 2154,
+		"company_name" : "Punch Productions"
+	},
+	{
+		"production_company_key" : 2157,
+		"company_name" : "26 Films"
+	},
+	{
+		"production_company_key" : 2173,
+		"company_name" : "Great Oaks Entertainment"
+	},
+	{
+		"production_company_key" : 2179,
+		"company_name" : "Collision Entertainment"
+	},
+	{
+		"production_company_key" : 2180,
+		"company_name" : "Outerbanks Entertainment"
+	},
+	{
+		"production_company_key" : 2184,
+		"company_name" : "Tollin/Robbins Productions"
+	},
+	{
+		"production_company_key" : 2188,
+		"company_name" : "Artisan Entertainment"
+	},
+	{
+		"production_company_key" : 2193,
+		"company_name" : "DoRo Fiction Film"
+	},
+	{
+		"production_company_key" : 2195,
+		"company_name" : "Central-Europa Film"
+	},
+	{
+		"production_company_key" : 2199,
+		"company_name" : "Horsepower Films"
+	},
+	{
+		"production_company_key" : 2200,
+		"company_name" : "Liveplanet"
+	},
+	{
+		"production_company_key" : 2201,
+		"company_name" : "Rickshaw Productions"
+	},
+	{
+		"production_company_key" : 2203,
+		"company_name" : "Onyx Films"
+	},
+	{
+		"production_company_key" : 2207,
+		"company_name" : "Montfort Producciones"
+	},
+	{
+		"production_company_key" : 2213,
+		"company_name" : "Rainmaker Entertainment"
+	},
+	{
+		"production_company_key" : 2214,
+		"company_name" : "Flower Films"
+	},
+	{
+		"production_company_key" : 2216,
+		"company_name" : "Helkon Media AG"
+	},
+	{
+		"production_company_key" : 2224,
+		"company_name" : "Plum Pictures"
+	},
+	{
+		"production_company_key" : 2226,
+		"company_name" : "Media 8 Entertainment"
+	},
+	{
+		"production_company_key" : 2227,
+		"company_name" : "True Grit Productions"
+	},
+	{
+		"production_company_key" : 2229,
+		"company_name" : "Red Bank Films"
+	},
+	{
+		"production_company_key" : 2230,
+		"company_name" : "MGM Television"
+	},
+	{
+		"production_company_key" : 2231,
+		"company_name" : "Trilogy Entertainment Group"
+	},
+	{
+		"production_company_key" : 2232,
+		"company_name" : "Cherry Alley Productions"
+	},
+	{
+		"production_company_key" : 2233,
+		"company_name" : "Bristol Bay Productions"
+	},
+	{
+		"production_company_key" : 2234,
+		"company_name" : "Baldwin Entertainment Group"
+	},
+	{
+		"production_company_key" : 2235,
+		"company_name" : "Desertlands Entertainment"
+	},
+	{
+		"production_company_key" : 2236,
+		"company_name" : "Maguire Entertainment"
+	},
+	{
+		"production_company_key" : 2242,
+		"company_name" : "Everyman Pictures"
+	},
+	{
+		"production_company_key" : 2243,
+		"company_name" : "Hammer & Tongs"
+	},
+	{
+		"production_company_key" : 2245,
+		"company_name" : "Entertainment Films"
+	},
+	{
+		"production_company_key" : 2246,
+		"company_name" : "Material Entertainment"
+	},
+	{
+		"production_company_key" : 2248,
+		"company_name" : "A-Mark Entertainment"
+	},
+	{
+		"production_company_key" : 2250,
+		"company_name" : "SCOPE Invest"
+	},
+	{
+		"production_company_key" : 2251,
+		"company_name" : "Sony Pictures Animation"
+	},
+	{
+		"production_company_key" : 2253,
+		"company_name" : "Lawrence Bender Productions"
+	},
+	{
+		"production_company_key" : 2254,
+		"company_name" : "Egoli Tossell Film AG"
+	},
+	{
+		"production_company_key" : 2257,
+		"company_name" : "Cracking the Earth Films"
+	},
+	{
+		"production_company_key" : 2262,
+		"company_name" : "Silver Nitrate Films"
+	},
+	{
+		"production_company_key" : 2264,
+		"company_name" : "Concert Promotion International"
+	},
+	{
+		"production_company_key" : 2265,
+		"company_name" : "Shangri-La Entertainment"
+	},
+	{
+		"production_company_key" : 2266,
+		"company_name" : "Bold Films"
+	},
+	{
+		"production_company_key" : 2267,
+		"company_name" : "First Choice Films"
+	},
+	{
+		"production_company_key" : 2268,
+		"company_name" : "Isle of Man Film"
+	},
+	{
+		"production_company_key" : 2269,
+		"company_name" : "China Film Co-Production Corporation"
+	},
+	{
+		"production_company_key" : 2270,
+		"company_name" : "China Film Group Corporation"
+	},
+	{
+		"production_company_key" : 2273,
+		"company_name" : "Eden Rock Media"
+	},
+	{
+		"production_company_key" : 2274,
+		"company_name" : "Element Films"
+	},
+	{
+		"production_company_key" : 2278,
+		"company_name" : "EOS Entertainment"
+	},
+	{
+		"production_company_key" : 2280,
+		"company_name" : "Les Films des Tournelles"
+	},
+	{
+		"production_company_key" : 2281,
+		"company_name" : "Les Films de Beyrouth"
+	},
+	{
+		"production_company_key" : 2282,
+		"company_name" : "Roissy Films"
+	},
+	{
+		"production_company_key" : 2283,
+		"company_name" : "Sunnyland"
+	},
+	{
+		"production_company_key" : 2290,
+		"company_name" : "Hunting Lane Films"
+	},
+	{
+		"production_company_key" : 2291,
+		"company_name" : "Journeyman Pictures"
+	},
+	{
+		"production_company_key" : 2292,
+		"company_name" : "Original Media"
+	},
+	{
+		"production_company_key" : 2293,
+		"company_name" : "Silverwood Films"
+	},
+	{
+		"production_company_key" : 2294,
+		"company_name" : "Traction Media"
+	},
+	{
+		"production_company_key" : 2297,
+		"company_name" : "Class 5 Films"
+	},
+	{
+		"production_company_key" : 2299,
+		"company_name" : "Wonderland Films"
+	},
+	{
+		"production_company_key" : 2300,
+		"company_name" : "Key Creatives"
+	},
+	{
+		"production_company_key" : 2306,
+		"company_name" : "Fontana Productions"
+	},
+	{
+		"production_company_key" : 2307,
+		"company_name" : "Hell's Kitchen Films"
+	},
+	{
+		"production_company_key" : 2308,
+		"company_name" : "Type A Films"
+	},
+	{
+		"production_company_key" : 2310,
+		"company_name" : "Screen West Midlands"
+	},
+	{
+		"production_company_key" : 2313,
+		"company_name" : "Andrea Sperling Productions"
+	},
+	{
+		"production_company_key" : 2315,
+		"company_name" : "Paramount Classics"
+	},
+	{
+		"production_company_key" : 2318,
+		"company_name" : "Ru00e9gion Provence Cu00f4te d'Azur"
+	},
+	{
+		"production_company_key" : 2319,
+		"company_name" : "Flicks Motion Pictures"
+	},
+	{
+		"production_company_key" : 2320,
+		"company_name" : "UTV Motion Pictures"
+	},
+	{
+		"production_company_key" : 2322,
+		"company_name" : "The Javelina Film Company"
+	},
+	{
+		"production_company_key" : 2325,
+		"company_name" : "Orsay Films"
+	},
+	{
+		"production_company_key" : 2326,
+		"company_name" : "Autonomous"
+	},
+	{
+		"production_company_key" : 2332,
+		"company_name" : "Bi-polar Pictures"
+	},
+	{
+		"production_company_key" : 2335,
+		"company_name" : "Film 4"
+	},
+	{
+		"production_company_key" : 2339,
+		"company_name" : "Access Films"
+	},
+	{
+		"production_company_key" : 2340,
+		"company_name" : "Napoleon Pictures Limited"
+	},
+	{
+		"production_company_key" : 2341,
+		"company_name" : "Belladonna Productions"
+	},
+	{
+		"production_company_key" : 2343,
+		"company_name" : "Red Chillies Entertainment"
+	},
+	{
+		"production_company_key" : 2345,
+		"company_name" : "Lemming Film"
+	},
+	{
+		"production_company_key" : 2347,
+		"company_name" : "FGM Entertainment"
+	},
+	{
+		"production_company_key" : 2348,
+		"company_name" : "Nickelodeon Movies"
+	},
+	{
+		"production_company_key" : 2355,
+		"company_name" : "Hirsch"
+	},
+	{
+		"production_company_key" : 2359,
+		"company_name" : "Stu00e9phan Films"
+	},
+	{
+		"production_company_key" : 2361,
+		"company_name" : "Ad Hominem Enterprises"
+	},
+	{
+		"production_company_key" : 2363,
+		"company_name" : "Cold Spring Pictures"
+	},
+	{
+		"production_company_key" : 2364,
+		"company_name" : "The Montecito Picture Company"
+	},
+	{
+		"production_company_key" : 2370,
+		"company_name" : "Merchant Ivory Productions"
+	},
+	{
+		"production_company_key" : 2373,
+		"company_name" : "Patriot Pictures"
+	},
+	{
+		"production_company_key" : 2376,
+		"company_name" : "Blueprint Pictures"
+	},
+	{
+		"production_company_key" : 2377,
+		"company_name" : "Chicago Pacific Entertainment"
+	},
+	{
+		"production_company_key" : 2378,
+		"company_name" : "Offspring Entertainment"
+	},
+	{
+		"production_company_key" : 2379,
+		"company_name" : "Palladium Productions"
+	},
+	{
+		"production_company_key" : 2391,
+		"company_name" : "Devonshire Productions"
+	},
+	{
+		"production_company_key" : 2394,
+		"company_name" : "Artina Films"
+	},
+	{
+		"production_company_key" : 2395,
+		"company_name" : "HanWay Films"
+	},
+	{
+		"production_company_key" : 2397,
+		"company_name" : "Cohen/Pearl Productions"
+	},
+	{
+		"production_company_key" : 2404,
+		"company_name" : "Yeah"
+	},
+	{
+		"production_company_key" : 2406,
+		"company_name" : "Filmfu00f6rderung Hamburg"
+	},
+	{
+		"production_company_key" : 2426,
+		"company_name" : "Les Films du Poisson"
+	},
+	{
+		"production_company_key" : 2427,
+		"company_name" : "Zazen Produu00e7u00f5es"
+	},
+	{
+		"production_company_key" : 2428,
+		"company_name" : "Wolper Organization"
+	},
+	{
+		"production_company_key" : 2430,
+		"company_name" : "Estu00fadios Mega"
+	},
+	{
+		"production_company_key" : 2432,
+		"company_name" : "Quanta Centro de Produu00e7u00f5es Cinematogru00e1ficas"
+	},
+	{
+		"production_company_key" : 2435,
+		"company_name" : "Langley Productions"
+	},
+	{
+		"production_company_key" : 2439,
+		"company_name" : "Bee Vine Pictures"
+	},
+	{
+		"production_company_key" : 2441,
+		"company_name" : "Fandango"
+	},
+	{
+		"production_company_key" : 2448,
+		"company_name" : "Yari Film Group"
+	},
+	{
+		"production_company_key" : 2452,
+		"company_name" : "UK Film Council"
+	},
+	{
+		"production_company_key" : 2453,
+		"company_name" : "Lord of the Wind"
+	},
+	{
+		"production_company_key" : 2454,
+		"company_name" : "Goldsmith-Thomas Productions"
+	},
+	{
+		"production_company_key" : 2455,
+		"company_name" : "Red Om Films"
+	},
+	{
+		"production_company_key" : 2458,
+		"company_name" : "Tartan Films"
+	},
+	{
+		"production_company_key" : 2461,
+		"company_name" : "Chris Brinker Productions"
+	},
+	{
+		"production_company_key" : 2471,
+		"company_name" : "National Geographic Society"
+	},
+	{
+		"production_company_key" : 2478,
+		"company_name" : "Manhattan Project"
+	},
+	{
+		"production_company_key" : 2481,
+		"company_name" : "Platinum Dunes"
+	},
+	{
+		"production_company_key" : 2482,
+		"company_name" : "Dead Films"
+	},
+	{
+		"production_company_key" : 2483,
+		"company_name" : "Laurel Entertainment"
+	},
+	{
+		"production_company_key" : 2484,
+		"company_name" : "Golar Productions"
+	},
+	{
+		"production_company_key" : 2490,
+		"company_name" : "LGM Productions"
+	},
+	{
+		"production_company_key" : 2495,
+		"company_name" : "Lefwander Kapitalfu00f6rvaltning AB"
+	},
+	{
+		"production_company_key" : 2499,
+		"company_name" : "The Kushner-Locke Company"
+	},
+	{
+		"production_company_key" : 2506,
+		"company_name" : "Dreamachine"
+	},
+	{
+		"production_company_key" : 2507,
+		"company_name" : "Todman, Simon, LeMasters Productions"
+	},
+	{
+		"production_company_key" : 2510,
+		"company_name" : "Mundy Lane Entertainment"
+	},
+	{
+		"production_company_key" : 2514,
+		"company_name" : "Alliance Films"
+	},
+	{
+		"production_company_key" : 2516,
+		"company_name" : "Kuzui Enterprises"
+	},
+	{
+		"production_company_key" : 2517,
+		"company_name" : "Avenging Conscience"
+	},
+	{
+		"production_company_key" : 2519,
+		"company_name" : "DeBart"
+	},
+	{
+		"production_company_key" : 2521,
+		"company_name" : "Golden Harvest Company"
+	},
+	{
+		"production_company_key" : 2525,
+		"company_name" : "Avalanche Productions"
+	},
+	{
+		"production_company_key" : 2526,
+		"company_name" : "Kickstart Productions"
+	},
+	{
+		"production_company_key" : 2527,
+		"company_name" : "Marc Platt Productions"
+	},
+	{
+		"production_company_key" : 2528,
+		"company_name" : "Top Cow Productions"
+	},
+	{
+		"production_company_key" : 2531,
+		"company_name" : "Media Rights Capital"
+	},
+	{
+		"production_company_key" : 2533,
+		"company_name" : "Albino Alligator Productions"
+	},
+	{
+		"production_company_key" : 2537,
+		"company_name" : "Kennedy Miller Productions"
+	},
+	{
+		"production_company_key" : 2539,
+		"company_name" : "Reaper Productions"
+	},
+	{
+		"production_company_key" : 2546,
+		"company_name" : "Peirce Pictures"
+	},
+	{
+		"production_company_key" : 2550,
+		"company_name" : "Teitler Film"
+	},
+	{
+		"production_company_key" : 2554,
+		"company_name" : "Quincy Jones-David Salzman Entertainment"
+	},
+	{
+		"production_company_key" : 2564,
+		"company_name" : "Cinu00e9@"
+	},
+	{
+		"production_company_key" : 2568,
+		"company_name" : "Lunar Films"
+	},
+	{
+		"production_company_key" : 2570,
+		"company_name" : "Bona Fide Productions"
+	},
+	{
+		"production_company_key" : 2575,
+		"company_name" : "21 Laps Entertainment"
+	},
+	{
+		"production_company_key" : 2577,
+		"company_name" : "Studio 37"
+	},
+	{
+		"production_company_key" : 2596,
+		"company_name" : "Jerry Weintraub Productions"
+	},
+	{
+		"production_company_key" : 2598,
+		"company_name" : "Hasbro"
+	},
+	{
+		"production_company_key" : 2599,
+		"company_name" : "Blue Askew"
+	},
+	{
+		"production_company_key" : 2604,
+		"company_name" : "Mark Johnson Productions"
+	},
+	{
+		"production_company_key" : 2605,
+		"company_name" : "Gran Via Productions"
+	},
+	{
+		"production_company_key" : 2608,
+		"company_name" : "Happy Madison Productions"
+	},
+	{
+		"production_company_key" : 2609,
+		"company_name" : "De Line Pictures"
+	},
+	{
+		"production_company_key" : 2612,
+		"company_name" : "Les Productions du Tru00e9sor"
+	},
+	{
+		"production_company_key" : 2613,
+		"company_name" : "Futurikon"
+	},
+	{
+		"production_company_key" : 2617,
+		"company_name" : "Ozla Pictures"
+	},
+	{
+		"production_company_key" : 2630,
+		"company_name" : "Majestic Films International"
+	},
+	{
+		"production_company_key" : 2632,
+		"company_name" : "Cinephil"
+	},
+	{
+		"production_company_key" : 2636,
+		"company_name" : "Tag Entertainment"
+	},
+	{
+		"production_company_key" : 2645,
+		"company_name" : "Guy Walks into a Bar Productions"
+	},
+	{
+		"production_company_key" : 2646,
+		"company_name" : "Deep River Productions"
+	},
+	{
+		"production_company_key" : 2648,
+		"company_name" : "Road Rebel"
+	},
+	{
+		"production_company_key" : 2649,
+		"company_name" : "New Real Films"
+	},
+	{
+		"production_company_key" : 2650,
+		"company_name" : "Ealing Studios"
+	},
+	{
+		"production_company_key" : 2651,
+		"company_name" : "Fragile Films"
+	},
+	{
+		"production_company_key" : 2655,
+		"company_name" : "Internationale Filmproduktion Richter"
+	},
+	{
+		"production_company_key" : 2659,
+		"company_name" : "Starz Media"
+	},
+	{
+		"production_company_key" : 2662,
+		"company_name" : "Trans-Film"
+	},
+	{
+		"production_company_key" : 2673,
+		"company_name" : "La Fabrique de Films"
+	},
+	{
+		"production_company_key" : 2674,
+		"company_name" : "Telecinco Cinema"
+	},
+	{
+		"production_company_key" : 2675,
+		"company_name" : "La Parti Productions"
+	},
+	{
+		"production_company_key" : 2679,
+		"company_name" : "FOTP Productions"
+	},
+	{
+		"production_company_key" : 2680,
+		"company_name" : "Kurosawa Production Co."
+	},
+	{
+		"production_company_key" : 2683,
+		"company_name" : "Rai Cinema"
+	},
+	{
+		"production_company_key" : 2689,
+		"company_name" : "2 Entertain"
+	},
+	{
+		"production_company_key" : 2690,
+		"company_name" : "Screen Yorkshire"
+	},
+	{
+		"production_company_key" : 2691,
+		"company_name" : "Infinitum Nihil"
+	},
+	{
+		"production_company_key" : 2699,
+		"company_name" : "Caviar Films"
+	},
+	{
+		"production_company_key" : 2721,
+		"company_name" : "Jinks/Cohen Company"
+	},
+	{
+		"production_company_key" : 2723,
+		"company_name" : "Lin Pictures"
+	},
+	{
+		"production_company_key" : 2724,
+		"company_name" : "Abandon Entertainment"
+	},
+	{
+		"production_company_key" : 2725,
+		"company_name" : "Foxtor Productions"
+	},
+	{
+		"production_company_key" : 2726,
+		"company_name" : "Emperor Motion Pictures"
+	},
+	{
+		"production_company_key" : 2727,
+		"company_name" : "Global Entertainment Group"
+	},
+	{
+		"production_company_key" : 2728,
+		"company_name" : "Millbrook Pictures"
+	},
+	{
+		"production_company_key" : 2729,
+		"company_name" : "Omnilab Media"
+	},
+	{
+		"production_company_key" : 2730,
+		"company_name" : "Motown Productions"
+	},
+	{
+		"production_company_key" : 2731,
+		"company_name" : "Intandem Films"
+	},
+	{
+		"production_company_key" : 2735,
+		"company_name" : "Mid Atlantic Films"
+	},
+	{
+		"production_company_key" : 2737,
+		"company_name" : "Davis-Panzer Productions"
+	},
+	{
+		"production_company_key" : 2740,
+		"company_name" : "Jigsaw Productions"
+	},
+	{
+		"production_company_key" : 2741,
+		"company_name" : "Falling Sky Entertainment"
+	},
+	{
+		"production_company_key" : 2743,
+		"company_name" : "Astral Media"
+	},
+	{
+		"production_company_key" : 2748,
+		"company_name" : "Clubdeal"
+	},
+	{
+		"production_company_key" : 2752,
+		"company_name" : "DENTSU Music And Entertainment"
+	},
+	{
+		"production_company_key" : 2755,
+		"company_name" : "Dante Entertainment"
+	},
+	{
+		"production_company_key" : 2756,
+		"company_name" : "Vertigo Productions"
+	},
+	{
+		"production_company_key" : 2760,
+		"company_name" : "Miracle Pictures"
+	},
+	{
+		"production_company_key" : 2767,
+		"company_name" : "Mace Neufeld Productions"
+	},
+	{
+		"production_company_key" : 2772,
+		"company_name" : "The Lab Of Madness"
+	},
+	{
+		"production_company_key" : 2773,
+		"company_name" : "Broken Lizard Industries"
+	},
+	{
+		"production_company_key" : 2776,
+		"company_name" : "MovieRoom Productions"
+	},
+	{
+		"production_company_key" : 2777,
+		"company_name" : "Black & White Productions"
+	},
+	{
+		"production_company_key" : 2779,
+		"company_name" : "Blue Star Pictures"
+	},
+	{
+		"production_company_key" : 2780,
+		"company_name" : "Cube Vision"
+	},
+	{
+		"production_company_key" : 2785,
+		"company_name" : "Warner Bros. Animation"
+	},
+	{
+		"production_company_key" : 2787,
+		"company_name" : "Reel FX Creative Studios"
+	},
+	{
+		"production_company_key" : 2795,
+		"company_name" : "Ott Medien"
+	},
+	{
+		"production_company_key" : 2796,
+		"company_name" : "Wild West Picture Show Productions"
+	},
+	{
+		"production_company_key" : 2798,
+		"company_name" : "Columbia Pictures Film Production Asia"
+	},
+	{
+		"production_company_key" : 2800,
+		"company_name" : "AMC Pictures"
+	},
+	{
+		"production_company_key" : 2802,
+		"company_name" : "TV4 Sweden"
+	},
+	{
+		"production_company_key" : 2811,
+		"company_name" : "Neo Art & Logic"
+	},
+	{
+		"production_company_key" : 2812,
+		"company_name" : "Lion Rock Productions"
+	},
+	{
+		"production_company_key" : 2813,
+		"company_name" : "Forensic Films"
+	},
+	{
+		"production_company_key" : 2814,
+		"company_name" : "Great Scott Productions Pty. Ltd."
+	},
+	{
+		"production_company_key" : 2822,
+		"company_name" : "SNL Studios"
+	},
+	{
+		"production_company_key" : 2830,
+		"company_name" : "Rival Pictures"
+	}
+]
